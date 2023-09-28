@@ -1,7 +1,7 @@
 # Keynote Countdown Timer Script
 
 ## Overview
-This AppleScript creates countdown timer in Keynote using a user-specified duration and a styled base slide.
+This AppleScript creates a countdown timer in Keynote using a user-specified duration and a styled base slide.
 
 ## Prerequisites
 - An open Keynote document with a single base slide.
